@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🔗 Connect with me:
-www.linkedin.com/in/omm-prakash-gouda-600119277
-https://mail.google.com/mail/u/1/#inbox
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/ll___akashhh___ll/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/omm-prakash-gouda-600119277/)
+[![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:omm54624@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/omm__28?hl=en)
 [![Leetcode](https://img.shields.io/badge/Leetcode-yellow?logo=leetcode&logoColor=black)](https://leetcode.com/u/akashkumar8917/)
 
 ---
@@ -38,8 +38,6 @@ https://mail.google.com/mail/u/1/#inbox
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
